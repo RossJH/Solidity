@@ -84,7 +84,7 @@ extra:
 # Customization
 # TBD
 
-copyright: A journey to learn in 2022 and document the resources accumulated along the way.
+copyright: A journey to learn solidity in 2022 and document the resources accumulated along the way.
 
 # Extensions
 markdown_extensions:
