@@ -16,6 +16,7 @@ nav:
     - Overview: steps/youtube.md
     - Test: steps/youtube.md  
     - test: steps/test-1.md 
+    - test: steps/test.md 
   - YouTube-Channels:
     - Overview: steps/youtube.md
     - Test: steps/youtube.md  
