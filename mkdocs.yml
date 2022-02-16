@@ -13,9 +13,9 @@ docs_dir: documentation
 nav:
   - Home: README.md
   - README.md: 
-    - Overview: steps/youtube.md
-    - Test: steps/youtube.md  
-    - test: steps/test-1.md 
+    - Overview: steps/checks.md
+    - Test: steps/Dancers.md  
+    - test: steps/people.md 
     - test: steps/test.md 
   - YouTube-Channels:
     - Overview: Info/youtube.md
