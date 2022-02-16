@@ -11,7 +11,7 @@ docs_dir: documentation
 
 # Navigation
 nav:
-  
+  - Home: index.md
   - README.md: 
     - Overview: steps/youtube.md
     - Test: steps/youtube.md  
