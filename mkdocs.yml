@@ -11,16 +11,11 @@ docs_dir: documentation
 
 # Navigation
 nav:
-  - Home: README.md
-    - Overview: steps/checks.md
-    - Test: steps/Dancers.md  
-    - test: steps/people.md 
-    - test: steps/test.md 
   - README.md: 
-    - Overview: steps/checks.md
+    - Overview: steps/test.md
     - Test: steps/Dancers.md  
     - test: steps/people.md 
-    - test: steps/test.md 
+    - test: steps/checks.md 
   - YouTube-Channels:
     - Overview: Info/youtube.md
     - Test: Info/youtube.md  
