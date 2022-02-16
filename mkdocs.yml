@@ -12,6 +12,10 @@ docs_dir: documentation
 # Navigation
 nav:
   - Home: README.md
+    - Overview: steps/checks.md
+    - Test: steps/Dancers.md  
+    - test: steps/people.md 
+    - test: steps/test.md 
   - README.md: 
     - Overview: steps/checks.md
     - Test: steps/Dancers.md  
@@ -41,12 +45,12 @@ theme:
     # - navigation.tabs
     - navigation.instant
     - navigation.expand
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
-    - navigation.indexes
+    # - navigation.tracking
+    #  - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    # - navigation.expand
+    # - navigation.indexes
     # - navigation.top
     - search.suggest
     - search.share
