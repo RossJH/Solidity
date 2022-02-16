@@ -1,11 +1,11 @@
 # Project information
 site_name: How to install MkDocs on Mac and setup integration with GitHub?
-site_url: https://.github.io/
+site_url: https://RossJH.github.io/Solidity-file
 site_author: Ross Hardingham
 
 # Repository
-repo_name: Solidity
-repo_url: https://github.com/solidity
+repo_name: Solidity-file
+repo_url: https://github.com/Solidity-file
 edit_uri: edit/master/documentation
 docs_dir: documentation
 
