@@ -18,9 +18,9 @@ nav:
     - test: steps/test-1.md 
     - test: steps/test.md 
   - YouTube-Channels:
-    - Overview: steps/youtube.md
-    - Test: steps/youtube.md  
-    - test: steps/test-1.md   
+    - Overview: info/youtube.md
+    - Test: info/youtube.md  
+    - test: info/test-1.md   
 
   
 ## DO NOT CHANGE BELOW THIS LINE
