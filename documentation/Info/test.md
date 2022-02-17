@@ -38,3 +38,5 @@ jobs:
 ### Step 4: Create a [new branch in your GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) project called for example `gh-pages`
 
 ### Step 5: Enable the [GitHub pages](https://pages.github.com) on your project and select the branch `gh-pages` as source for your documentation
+
+### Step 6: Enable the [GitHub pages](https://pages.github.com) on your project and select the branch `gh-pages` as source for your documentation
