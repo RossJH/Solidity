@@ -1,1 +1,1 @@
-www.soliditycode.services
+soliditycode.services
