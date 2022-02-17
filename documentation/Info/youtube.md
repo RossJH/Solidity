@@ -1,6 +1,7 @@
-# Youtube video example 1 
+# Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course
 
-### Step 1: Open up your computer and VS code so that you can download your dependancies and code along. `mkdocs.yml` file in place
+### Step 1: Head over to Free Code Camp [configuration](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/):
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 

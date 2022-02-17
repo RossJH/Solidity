@@ -17,7 +17,7 @@ nav:
     - test: steps/people.md 
     - test: steps/checks.md 
   - YouTube-Channels:
-    - Beginner Projects: Info/youtube.md
+    - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: Info/youtube.md
     - Test: video/youtube.md  
     - test: video/test-1.md   
     - test: video/test.md  
