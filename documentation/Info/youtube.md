@@ -1,6 +1,9 @@
-# Verify your documentation and build the pages
+# Youtube video example 1 
 
-### Step 1: Ensure you have a `mkdocs.yml` file in place
+### Step 1: Open up your computer and VS code so that you can download your dependancies and code along. `mkdocs.yml` file in place
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 This is a example [configuration](https://www.mkdocs.org/user-guide/configuration/):
 

@@ -17,7 +17,7 @@ nav:
     - test: steps/people.md 
     - test: steps/checks.md 
   - YouTube-Channels:
-    - Overview: Info/youtube.md
+    - Beginner Projects: Info/youtube.md
     - Test: Info/youtube.md  
     - test: Info/test-1.md   
     - test: Info/test.md  
