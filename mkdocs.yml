@@ -18,10 +18,14 @@ nav:
     - test: steps/checks.md 
   - YouTube-Channels:
     - Beginner Projects: Info/youtube.md
-    - Test: Info/youtube.md  
-    - test: Info/test-1.md   
+    - Test: video/youtube.md  
+    - test: video/test-1.md   
+    - test: video/test.md  
+  - Tools/Libraries:
+    - Truffle: Info/youtube.md
+    - Remix IDE: Info/youtube.md  
+    - Hardhat: Info/test-1.md   
     - test: Info/test.md  
-
   
 ## DO NOT CHANGE BELOW THIS LINE
 
