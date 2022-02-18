@@ -1,11 +1,11 @@
 # Learning to code Solidity and building this to keep me accountable and active. 
 
-### Hey, you found this resource, hopefully it helps you on your Solidity journey. Feel free to comment depending on time constraints ill try to reply where i can. 
+### Hey, you found this resource, hopefully it helps you on your Solidity journey. Feel free to comment regarding resources,help or any recommendations. Depending on time constraints ill try to update/reply where i can. 
 
-### If your a Developer or trader in Digital assets feel free to add me [LinkedIn](https://www.linkedin.com/in/rosshardingham/)
+### If your a Developer or Trader in Digital Assets feel free to add me [LinkedIn](https://www.linkedin.com/in/rosshardingham/)
 
 
-### My background is in Finance and Banking and now working for a Crypto Fund as a DeFi Analyst and amongst researching projects also learning to code Python, JS and Solididty. 
+### My background is in Finance and Banking and now working for a Crypto Fund as a DeFi Analyst and amongst researching projects also learning to code Python, JS and Solidity. 
 
 
 <script src="https://giscus.app/client.js"
