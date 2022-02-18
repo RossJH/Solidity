@@ -1,3 +1,8 @@
+title: Lorem ipsum dolor sit amet
+description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
+path: path/to/file
+source: file.js
+
 # Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course
 
 ### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/):

@@ -38,3 +38,18 @@ jobs:
 ### Step 4: Create a [new branch in your GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) project called for example `gh-pages`
 
 ### Step 5: Enable the [GitHub pages](https://pages.github.com) on your project and select the branch `gh-pages` as source for your documentation
+
+<script src="https://giscus.app/client.js"
+        data-repo="RossJH/Solidity-file"
+        data-repo-id="R_kgDOG2qAxg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOG2qAxs4CBNzH"
+        data-mapping="url"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
