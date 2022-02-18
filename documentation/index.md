@@ -9,7 +9,7 @@
 
 
 <script src="https://giscus.app/client.js"
-        data-repo="RossJH/Solidity-file"
+        data-repo="RossJH/Solidity"
         data-repo-id="R_kgDOG2qAxg"
         data-category="Announcements"
         data-category-id="DIC_kwDOG2qAxs4CBNzH"

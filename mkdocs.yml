@@ -4,8 +4,8 @@ site_url: https://soliditycode.services
 site_author: Ross Hardingham
 
 # Repository
-repo_name: Solidity-file
-repo_url: https://github.com/RossJH/Solidity-file
+repo_name: Solidity
+repo_url: https://github.com/RossJH/Solidity
 edit_uri: edit/master/documentation
 docs_dir: documentation
 
