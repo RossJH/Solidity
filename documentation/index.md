@@ -8,7 +8,7 @@
 
 ### If you are totally new to coding and want to get started in Solidity you will need to create a [Github Account](https://github.com/) along with downloading a code editor or IDE. You have an option to just use [REMIX](https://remix.ethereum.org/) but we recommend [VScode](https://code.visualstudio.com/) as it allows you to focus on many languages not just Solidity and it is the most popular amongst developers. 
 
-### If you want to reach out [Email solditycode.services](email:soliditycode.services@protonmail.com)
+### If you want to reach out [Email solditycode.services](mailto:soliditycode.services@protonmail.com)
 
 <script src="https://giscus.app/client.js"
         data-repo="RossJH/Solidity"
