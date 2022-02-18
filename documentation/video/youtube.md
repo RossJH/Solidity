@@ -1,3 +1,6 @@
+---
+template: custom.html
+---
 # Youtube video example 1 
 
 ### Step 1: Open up your computer and VS code so that you can download your dependancies and code along. `mkdocs.yml` file in place
