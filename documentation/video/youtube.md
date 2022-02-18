@@ -1,5 +1,5 @@
 ---
-template: custom.html
+template: main.html
 ---
 # Youtube video example 1 
 
