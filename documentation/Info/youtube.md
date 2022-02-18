@@ -1,4 +1,6 @@
-
+---
+template: main.html
+---
 
 # Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course
 

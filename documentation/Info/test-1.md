@@ -1,3 +1,7 @@
+---
+template: main.html
+---
+
 # MkDocs installation on Mac
 
 ### Step 1: Verify the [brew](https://brew.sh) installation

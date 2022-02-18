@@ -1,3 +1,7 @@
+---
+template: main.html
+---
+
 # Verify your documentation and build the pages
 
 ### Step 1: Ensure you have a `mkdocs.yml` file in place

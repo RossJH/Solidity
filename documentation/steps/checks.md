@@ -1,3 +1,7 @@
+---
+template: main.html
+---
+
 # Integrate the documentation with [GitHub CI](https://docs.github.com/en/actions/guides/about-continuous-integration)
 
 ### Step 1: Add folder to `.gitignore`

@@ -1,3 +1,7 @@
+---
+template: main.html
+---
+
 # Build a house from anything in the metaverse. 
 
 ### Step 1: Add folder to `.gitignore`
