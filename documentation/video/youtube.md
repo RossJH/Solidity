@@ -1,120 +1,108 @@
 ---
 template: main.html
 ---
-# Youtube video example 1 
 
-### Step 1: Open up your computer and VS code so that you can download your dependancies and code along. `mkdocs.yml` file in place
+# Solidity Tutorial – How to Create NFTs with Hardhat
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/):
 
+![Image title](https://www.freecodecamp.org/news/content/images/size/w2000/2021/05/hardhat_nft-1.png/f5f5f5/aaaaaa#only-light)
 
-This is a example [configuration](https://www.mkdocs.org/user-guide/configuration/):
+Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications.
 
-```yml
-# Project information
-site_name: Your Project
-site_url: https://[YOUR_GITHUB_ID].github.io/[your-repository-name]
-site_author: Thomas Südbröcker
+We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts.
 
-# Repository
-repo_name: [YOUR-REPOSITORY-NAME]
-repo_url: https://github.com/[YOUR_GITHUB_ID]/[YOUR-REPOSITORY-NAME]
-edit_uri: edit/master/[YOU-DOCUMENTATION_FOLDER]
-docs_dir: [YOU-DOCUMENTATION_FOLDER]
+This course will give you a full introduction into all of the core concepts in blockchain, smart contracts, solidity, NFTs/ERC721s, ERC20s, Coding Decentralized Finance (DeFi), python and solidity, Chainlink, Ethereum, upgradable smart contracts, and full stack blockchain development.
 
-# Navigation
-nav:
-  - Welcome:
-    - Overview: README.md   
-  
-## DO NOT CHANGE BELOW THIS LINE
+## Here are all the sections covered in this comprehensive course:
 
-# Copyright
-# TBD
+### Lesson 0: Welcome To Blockchain
 
-# Theme
-theme:
-  name: material
-  font:
-    text: IBM Plex Sans
-    code: IBM Plex Mono
-  icon:
-    logo: material/library
-  features:
-    # - navigation.tabs
-    - navigation.instant
-    - navigation.expand
-  palette:
-    scheme: default
-    primary: blue
-    accent: blue
+1. What is a Blockchain?
+2. Making Your First Transaction
+3. How Do Blockchains Work?
+4. Consensus
+5. The Future
+6. Miscellaneous
 
-# Plugins
-plugins:
-  - search
+### Lesson 1: Welcome to Remix! Simple Storage
 
-# Customization
-# TBD
+1. Everything in this section can be read about in the Solidity Documentation
+2. Remix
+3. Basic Solidity
+4. Deploying to a "Live" network
 
-# Extensions
-markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      check_paths: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-```
+### Lesson 2: Storage Factory
 
-### Step 2: Preview your documentation locally
+1. Inheritance, Factory Pattern, and Interacting with External Contracts
+2. Lesson 3: Fund Me
+3. Payable, msg.sender, msg.value, Units of Measure
+4. Chainlink Oracles
+5. Importing from NPM and Advanced Solidity
 
-```sh
-python3 -m mkdocs serve  
-```
+### Lesson 4: Web3.py Simple Storage
 
-* Example output:
+1. Installing VSCode, Python, and Web3
+2. Our First Python Script with Web3.py - Deploying a Contract
+3. Interacting with Our Contract in Python & Web3.py
 
-```sh
-INFO    -  Cleaning site directory 
-INFO    -  Documentation built in 0.57 seconds 
-[I 210125 09:15:48 server:335] Serving on http://127.0.0.1:8000
-INFO    -  Serving on http://127.0.0.1:8000
-[I 210125 09:15:48 handlers:62] Start watching changes
-INFO    -  Start watching changes
-[I 210125 09:15:48 handlers:64] Start detecting changes
-INFO    -  Start detecting changes
-```
+### Lesson 5: Brownie Simple Storage
 
-### Step 3: Build the pages in the folder "/site", which will be added to your GitHub project
+1. Brownie Introduction
+2. Installing Brownie
+3. Brownie Simple Storage Project
+4. Testing Basics
 
-```sh
-python3 -m mkdocs build
-```
+### Lesson 6: Brownie Fund Me
+
+1. Introduction
+2. Dependencies, Deploying, and Networks
+3. Funding and Withdrawing Python Scripts
+4. Testing across networks
+5. Git
+
+### Lesson 7: SmartContract Lottery
+
+1. Introduction
+2. Lottery.sol
+3. esting Lottery.sol
+4. Lottery.sol Testnet Deployment
+
+### Lesson 8: Chainlink Mix
+
+1. Brownie Mixes
+
+### Lesson 9: ERC20s, EIPs, and Token Standards
+
+### Lesson 10: Defi & Aave
+
+1. Defi Intro
+2. Aave UI
+3. Programmatic Interactions with Aave
+4. Testing
+
+### Lesson 11: NFTs
+
+1. Non-Technical Explainer
+2. Simple NFT
+3. SimpleCollectible Testing
+4. Advanced NFT
+5. Advanced deploy_and_create
+6. Creating Metadata & IPFS
+
+### Lesson 12: Upgrades
+
+1. Introduction to upgrading smart contracts
+2. Upgrades-mix and code
+3. Testing Upgrades
+4. Upgrades on a testnet
+5. Bonus Lesson 13: Full Stack Defi
+6. Defi Stake Yield Brownie Scripts & Tests
+7. Testing our Defi Stake Yield Brownie Dapp
+8. Front End / Full Stack
+9. Closing and Summary
+10. Security
+11. Where do I go now?
+12. Learning More
+13. Community
+14. Hackathons
