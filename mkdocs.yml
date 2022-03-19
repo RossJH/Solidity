@@ -17,9 +17,9 @@ nav:
       - test: steps/people.md
       - test: steps/checks.md
   - YouTube-Channels:
-      - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: Info/youtube.md
-      - Solidity Tutorial – How to Create NFTs with Hardhat: video/youtube.md
-      - test: video/test-1.md
+      - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: solidity-youtube-videos/free-code-camp-solidity.md
+      - Solidity Tutorial – How to Create NFTs with Hardhat: solidity-youtube-videos/free-code-camp-hardhat.md
+      - Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM: solidity-youtube-videos/dapp-university.md
       - test: video/test.md
   - Tools/Libraries:
       - Truffle: Info/youtube.md
