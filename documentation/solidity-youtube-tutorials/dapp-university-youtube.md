@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Solidity Tutorial – How to Create NFTs with Hardhat
+# Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM
 
 ### Step 1: [Head over to Free Code Camp](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
