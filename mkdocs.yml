@@ -6,8 +6,8 @@ site_author: Ross Hardingham
 # Repository
 repo_name: Solidity
 repo_url: https://github.com/RossJH/Solidity
-edit_uri: edit/master/documentation
-docs_dir: documentation
+edit_uri: edit/gh-pages
+docs_dir: gh-pages
 
 # Navigation
 nav:
