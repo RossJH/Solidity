@@ -36,13 +36,13 @@ nav:
       - Ethernaut: solidity-code-games/ethernaut.md
       - Crypto Zombies: solidity-code-games/crypto-zombies.md
   - Bootcamps:
-      - Buildspace: Info/youtube.md
-      - Bloomtech: Info/youtube.md
-      - ChainShot: Info/test-1.md
-      - Consensys Academy: Info/test.md
-      - NFT School: Info/test.md
-      - Pointer: Info/test.md
-      - Questbook: Info/test.md
+      - Buildspace: bootcamps/buildspace.md
+      - Bloomtech: bootcamps/bloomtech.md
+      - ChainShot: bootcamps/chainshot.md
+      - Consensys Academy: bootcamps/consensys.md
+      - NFT School: bootcamps/nft-school.md
+      - Pointer: bootcamps/pointer.md
+      - Questbook: bootcamps/questbook.md
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
