@@ -2,41 +2,16 @@
 template: main.html
 ---
 
-# MkDocs installation on Mac
+# Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course
 
-### Step 1: Verify the [brew](https://brew.sh) installation
+### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/):
 
-```sh
-brew --version
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Step 2: Change the folder permission to install python, if needed
+Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications.
 
-```sh
-sudo chown -R $(whoami) /usr/local/lib/pkgconfig
-chmod u+w /usr/local/lib/pkgconfig
-```
+We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts.
 
-### Step 3: Install [python3](https://www.python.org)
+This course will give you a full introduction into all of the core concepts in blockchain, smart contracts, solidity, NFTs/ERC721s, ERC20s, Coding Decentralized Finance (DeFi), python and solidity, Chainlink, Ethereum, upgradable smart contracts, and full stack blockchain development.
 
-```sh
-brew install python3
-```
-
-### Step 4: Upgrade pip
-
-```sh
-pip3 install --upgrade pip
-```
-
-### Step 5: Install [mkdocs](https://www.mkdocs.org)
-
-```sh
-pip3 install mkdocs
-```
-
-### Step 6: Install the [mkdocs-material-extensions](https://pypi.org/project/mkdocs-material-extensions/)
-
-```sh
-python3 -m pip install mkdocs-material-extensions
-```
+## Here are all the sections covered in this comprehensive course:

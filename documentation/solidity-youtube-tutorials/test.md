@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Build a house from anything in the metaverse. 
+# Build a house from anything in the metaverse.
 
 ### Step 1: Add folder to `.gitignore`
 
@@ -45,4 +45,4 @@ jobs:
 
 ### Step 6: Enable the [GitHub pages](https://pages.github.com) on your project and select the branch `gh-pages` as source for your documentation
 
-> This is a test block quote. 
+> This is a test block quote.

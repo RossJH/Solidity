@@ -4,11 +4,11 @@ template: main.html
 
 # Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM
 
-### Step 1: [Head over to Free Code Camp Youtube](https://www.youtube.com/watch?v=ipwxYa-F1uY):
+### Step 1: [Head over to Free Code Camp Youtube](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ipwxYa-F1uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Introduction
+### Introduction
 
 Learn to program in Solidity in this full tutorial from Dapp University. Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 

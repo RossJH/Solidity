@@ -4,7 +4,7 @@ template: main.html
 
 # Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course
 
-### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/):
+### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

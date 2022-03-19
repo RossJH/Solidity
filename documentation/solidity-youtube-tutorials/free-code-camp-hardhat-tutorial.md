@@ -34,4 +34,4 @@ See this repo for the code.
 
 Hardhat has some other cool features like helpful stack trace, support for multiple Solidity compiler versions, a robust Mainnet forking, great TypeScript support and contract verification in Etherescan. But that’s for another time!
 
-Recognition - [Taisuke Mino](https://www.freecodecamp.org/news/author/tai/):
+Recognition - [Taisuke Mino](https://www.freecodecamp.org/news/author/tai/)
