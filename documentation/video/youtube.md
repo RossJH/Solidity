@@ -4,11 +4,11 @@ template: main.html
 
 # Solidity Tutorial – How to Create NFTs with Hardhat
 
-### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/):
+### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/)
 
 ![HardHat](https://www.freecodecamp.org/news/content/images/size/w2000/2021/05/hardhat_nft-1.png)
 
-# Introduction
+### Introduction
 
 I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.
 
@@ -22,7 +22,7 @@ The goal of this post is to make you familiar with Hardhat. I won’t talk about
 
 See this repo for the code.
 
-## Overview
+### Overview
 
 1. How to Set Up the Project
 2. How to Write and Compile the Contract
@@ -30,7 +30,7 @@ See this repo for the code.
 4. How to Use console.log() in Hardhat
 5. How to Deploy the Contract
 
-# Conclusion
+### Conclusion
 
 Hardhat has some other cool features like helpful stack trace, support for multiple Solidity compiler versions, a robust Mainnet forking, great TypeScript support and contract verification in Etherescan. But that’s for another time!
 
