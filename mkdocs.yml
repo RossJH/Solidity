@@ -21,7 +21,7 @@ nav:
       - Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM: solidity-youtube-tutorials/dapp-university-youtube.md
       - test: video/test.md
    - Tutorials:
-      - Solidity Tutorial – How to Create NFTs with Hardhat: solidity-youtube-tutorials/free-code-camp-hardhat-tutorial.md
+      - Solidity Tutorial – How to Create NFTs with Hardhat: solidity-tutorials/free-code-camp-hardhat-tutorial.md
       - Buildspace - The worlds largest on-chain network: solidity-tutorials/buildspace-tutorial.md
   - Tools/Libraries:
       - Truffle: Info/youtube.md 
