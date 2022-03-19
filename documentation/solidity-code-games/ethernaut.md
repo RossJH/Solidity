@@ -2,43 +2,12 @@
 template: main.html
 ---
 
-# Integrate the documentation with [GitHub CI](https://docs.github.com/en/actions/guides/about-continuous-integration)
+### Step 1: Head over to Open Zepplin [Website](https://ethernaut.openzeppelin.com/)
 
-### Step 1: Add folder to `.gitignore`
+### The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
-```sh
-echo "site/" >> .gitignore
-```
+### The game is 100% open source and all levels are contributions made by other players. Do you have an interesting idea? PRs are welcome at
 
-### Step 2: Create a two folders in your project
+[GitHub](github.com/OpenZeppelin/ethernaut)
 
-```sh
-mkdir .github
-cd .github
-mkdir workflows
-```
-
-### Step 3: Create a file called `ci.yml` and insert the CI configuration
-
-```yml
-name: ci
-on:
-  push:
-    branches:
-      - main
-      - master
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
-```
-
-### Step 4: Create a [new branch in your GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) project called for example `gh-pages`
-
-### Step 5: Enable the [GitHub pages](https://pages.github.com) on your project and select the branch `gh-pages` as source for your documentation
+Recognition - [Openzepplin](https://openzeppelin.com/)

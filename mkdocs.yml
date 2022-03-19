@@ -31,7 +31,7 @@ nav:
       - NFT contract: Info/youtube.md
       - Hardhat: Info/test-1.md
       - test: Info/test.md
-  - Games:
+  - Solidity-Games:
       - Ethernaut: solidity-code-games/ethernaut.md
       - Crypto Zombies: solidity-code-games/crypto-zombies.md
 
