@@ -24,9 +24,9 @@ nav:
       - Solidity Tutorial – How to Create NFTs with Hardhat: solidity-tutorials/free-code-camp-hardhat-tutorial.md
       - Buildspace - The worlds largest on-chain network: solidity-tutorials/buildspace-tutorial.md
   - Tools/Libraries:
-      - Truffle: Info/youtube.md
-      - Remix IDE: Info/youtube.md
-      - Hardhat: Info/test-1.md
+      - Truffle: tools-libraries/truffle.md
+      - Remix IDE: tools-libraries/youtube.md
+      - Hardhat: tools-libraries/test-1.md
 
   - Projects:
       - Your first contract: Info/youtube.md

@@ -8,7 +8,7 @@ description: A fun game to help you learn solidity and get to know the syntax.
 
 ### Learn to Code Blockchain DApps By Building Simple Games
 
-![Crypto Zombies](https://cryptozombies.io/images/feature-zombie-dna-c14903fc.webp/600x400/)
+![Crypto Zombies](https://cryptozombies.io/images/feature-zombie-dna-c14903fc.webp/)
 
 ### Interactive Coding Lessons
 
