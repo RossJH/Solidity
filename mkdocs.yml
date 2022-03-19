@@ -19,7 +19,6 @@ nav:
   - YouTube-Tutorials:
       - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: solidity-youtube-tutorials/free-code-camp-solidity-youtube.md
       - Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM: solidity-youtube-tutorials/dapp-university-youtube.md
-
   - Tutorials:
       - Solidity Tutorial – How to Create NFTs with Hardhat: solidity-tutorials/free-code-camp-hardhat-tutorial.md
       - Buildspace - The worlds largest on-chain network: solidity-tutorials/buildspace-tutorial.md
@@ -27,7 +26,7 @@ nav:
       - Truffle: tools-libraries/truffle.md
       - Remix IDE: tools-libraries/remix-ide.md
       - Hardhat: tools-libraries/hardhat.md
-
+      - Ethereum Documentation: tools-libraries/ethereum-docs.md
   - Projects:
       - Your first contract: Info/youtube.md
       - NFT contract: Info/youtube.md
@@ -36,7 +35,14 @@ nav:
   - Solidity-Games:
       - Ethernaut: solidity-code-games/ethernaut.md
       - Crypto Zombies: solidity-code-games/crypto-zombies.md
-
+  - Bootcamps:
+      - Buildspace: Info/youtube.md
+      - Bloomtech: Info/youtube.md
+      - ChainShot: Info/test-1.md
+      - Consensys Academy: Info/test.md
+      - NFT School: Info/test.md
+      - Pointer: Info/test.md
+      - Questbook: Info/test.md
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
