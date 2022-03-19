@@ -1,17 +1,15 @@
 ---
 template: main.html
-title: ChainShot - Fast-Track Your Ethereum Developer Career
-description: Join a 100% live and online Bootcamp. Acquire highly desired skills in blockchain and smart contracts
+title: Remix IDE - Deploy and run transactions on the Blockchain
+description: Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains
 ---
 
-# ChainShot allows you to learn the basics of coding focused around web3.
+# The Remix IDE allows you to write, compile and debug Solidity code.
 
-### Step 1: [Head over to ChainShot](https://www.chainshot.com/)
+### Step 1: [Head over to Remix IDE](https://remix-project.org/)
 
-![ChainShot](https://ethereum.org/static/e1fcfc881edd8690231ae70e3168f93f/e64f1/chainshot.webp)
+![Remix](https://ethereum.github.io/remix-website/assets/imgs/team/remix_logo.png)
 
 # Introduction
 
-ChainShot has basic free courses however the main Bootcamp is paid. While this documentation is focused on providing people with free materials to learn solidity we have also included top paid courses.
-
-Recognition - [Dan Nolan](https://www.linkedin.com/in/dannolan99/?challengeId=AQGrdG492AA3AQAAAX-khbU_7x4ZVQj91vUSiet0hP2Bfnz3x90tq7Lht4lmKvSyLOCVknKp7AAp9BMSigEf10e-PwqHlkNGbw&submissionId=cfeeac22-29ec-dd16-7f12-b7807394251b)
+The Remix IDE is a Solidity specific IDE to help you write smart contracts. It is an alternative to VScode.
