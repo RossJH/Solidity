@@ -1,6 +1,6 @@
 # Project information
 site_name: Solidity Resources
-site_url: https://rossjh.github.io/Solidity/
+site_url: https://soliditycode.services/
 site_author: Ross Hardingham
 
 # Repository
@@ -11,27 +11,27 @@ docs_dir: documentation
 
 # Navigation
 nav:
-  - README.md: 
-    - Overview: steps/test.md
-    - Test: steps/Dancers.md  
-    - test: steps/people.md 
-    - test: steps/checks.md 
+  - README.md:
+      - Overview: steps/test.md
+      - Test: steps/Dancers.md
+      - test: steps/people.md
+      - test: steps/checks.md
   - YouTube-Channels:
-    - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: Info/youtube.md
-    - Test: video/youtube.md  
-    - test: video/test-1.md   
-    - test: video/test.md  
+      - Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course: Info/youtube.md
+      - Test: video/youtube.md
+      - test: video/test-1.md
+      - test: video/test.md
   - Tools/Libraries:
-    - Truffle: Info/youtube.md
-    - Remix IDE: Info/youtube.md  
-    - Hardhat: Info/test-1.md   
-    - test: Info/test.md  
+      - Truffle: Info/youtube.md
+      - Remix IDE: Info/youtube.md
+      - Hardhat: Info/test-1.md
+      - test: Info/test.md
   - Projects:
-    - Your first contract: Info/youtube.md
-    - NFT contract: Info/youtube.md  
-    - Hardhat: Info/test-1.md   
-    - test: Info/test.md    
-  
+      - Your first contract: Info/youtube.md
+      - NFT contract: Info/youtube.md
+      - Hardhat: Info/test-1.md
+      - test: Info/test.md
+
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
@@ -43,7 +43,7 @@ theme:
   custom_dir: overrides
   font:
     text: IBM Plex Sans
-    code: IBM Plex Mono 
+    code: IBM Plex Mono
   icon:
     logo: material/ethereum
   features:
@@ -60,12 +60,12 @@ theme:
     - search.suggest
     - search.share
     - header.autohide
-  palette: 
+  palette:
     - scheme: slate
       toggle:
-        icon: material/weather-sunny 
+        icon: material/weather-sunny
         name: Switch to dark mode
-    - scheme: default 
+    - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -80,16 +80,16 @@ extra:
     property: G-FHV0KJELZ3
   consent:
     title: Cookie consent
-    description: 
+    description:
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
-      make our documentation better.  
+      make our documentation better.
   social:
-    - icon: fontawesome/brands/twitter 
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/
-    - icon: fontawesome/brands/medium 
-      link: https://twitter.com/  
+    - icon: fontawesome/brands/medium
+      link: https://twitter.com/
   generator: false
 
 # Customization
