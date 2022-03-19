@@ -25,8 +25,8 @@ nav:
       - Buildspace - The worlds largest on-chain network: solidity-tutorials/buildspace-tutorial.md
   - Tools/Libraries:
       - Truffle: tools-libraries/truffle.md
-      - Remix IDE: tools-libraries/youtube.md
-      - Hardhat: tools-libraries/test-1.md
+      - Remix IDE: tools-libraries/remix-ide.md
+      - Hardhat: tools-libraries/hardhat.md
 
   - Projects:
       - Your first contract: Info/youtube.md
