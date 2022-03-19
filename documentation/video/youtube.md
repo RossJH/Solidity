@@ -6,7 +6,7 @@ template: main.html
 
 ### Step 1: [Head over to Free Code Camp](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/):
 
-![HardHat](main/documentation/images/hardhat_nft-1.png)
+![HardHat](https://www.freecodecamp.org/news/content/images/size/w2000/2021/05/hardhat_nft-1.png)
 
 Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications.
 
