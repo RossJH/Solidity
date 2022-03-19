@@ -12,7 +12,7 @@ docs_dir: documentation
 # Navigation
 nav:
   - README.md:
-      - Overview: steps/test.md
+      - Overview: steps/Dancers.md
       - Test: steps/Dancers.md
       - test: steps/people.md
       - test: steps/checks.md
