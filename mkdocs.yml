@@ -34,6 +34,7 @@ nav:
       - Hardhat: Info/test-1.md
       - test: Info/test.md
   - Solidity-Games:
+      - Ethernaut: solidity-code-games/ethernaut-copy.md
       - Ethernaut: solidity-code-games/ethernaut.md
       - Crypto Zombies: solidity-code-games/crypto-zombies.md
 
