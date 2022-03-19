@@ -1,5 +1,7 @@
 ---
 template: main.html
+title: NFT Hardhat Tutorial - FreeCodeCamp
+description: Solidity Tutorial – How to Create NFTs with Hardhat
 ---
 
 # Solidity Tutorial – How to Create NFTs with Hardhat

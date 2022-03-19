@@ -1,5 +1,7 @@
 ---
 template: main.html
+title: Learn how to build solidity dapps
+description: How to build Ethereum Smart Contracts in SOlidity programming language.
 ---
 
 # Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM

@@ -1,5 +1,7 @@
 ---
 template: main.html
+title: Buildspace
+description: A great on-chain network to learn about web3 and solidity code.
 ---
 
 # Solidity Tutorial – How to Create NFTs with Hardhat

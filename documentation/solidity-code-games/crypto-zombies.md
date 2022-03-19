@@ -1,14 +1,14 @@
 ---
 template: main.html
-title: Lorem ipsum dolor sit amet
-description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
+title: Crypto Zombies
+description: A fun game to help you learn solidity and get to know the syntax.
 ---
 
 # Crypto Zombies
 
 ### Learn to Code Blockchain DApps By Building Simple Games
 
-![Crypto Zombies](https://cryptozombies.io/images/feature-zombie-dna-c14903fc.webp)
+![Crypto Zombies](https://cryptozombies.io/images/feature-zombie-dna-c14903fc.webp/600x400/)
 
 ### Interactive Coding Lessons
 

@@ -1,5 +1,7 @@
 ---
 template: main.html
+title: Ethernaut Game
+description: A fun game to help you learn about security vulnerabilities in solidity code.
 ---
 
 ### Step 1: Head over to Open Zepplin [Website](https://ethernaut.openzeppelin.com/)
