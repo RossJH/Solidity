@@ -6,7 +6,7 @@ description: Hardhat is a development environment to compile, deploy, test, and 
 
 # Hardhat allows you to write, compile and debug Solidity code.
 
-### Step 1: [Head over to Hardhat](https://hardhat.org/)
+### Step 1: [Head over to Hardhat](https://hardhat.org/){:target="\_blank"}
 
 ![Hardhat](https://hardhat.org/assets/img/Hardhat-logo.843bc822.svg)
 

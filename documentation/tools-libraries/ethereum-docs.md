@@ -6,17 +6,17 @@ description: A world class development environment, testing framework and asset 
 
 # The Truffle Suite gets developers from idea to dapp as comfortably as possible.
 
-### Step 1: [Head over to Truffle](https://trufflesuite.com/)
+### Step 1: [Head over to Ethereum](https://ethereum.org/en/developers/docs/){:target="\_blank"}
 
 ![Truffle](https://trufflesuite.com/img/truffle-logo-light.svg)
 
-# Truffle
+# Introduction
 
-A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+This documentation is designed to help you build with Ethereum. It covers Ethereum as a concept, explains the Ethereum tech stack, and documents advanced topics for more complex applications and use cases.
 
-## Ganache
+## Open-source
 
-A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+This is an open-source community effort, so feel free to suggest new topics, add new content, and provide examples wherever you think it might be helpful. All documentation can be edited via GitHub
 
 ### Drizzle
 

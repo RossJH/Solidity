@@ -6,7 +6,7 @@ description: Remix IDE allows developing, deploying and administering smart cont
 
 # The Remix IDE allows you to write, compile and debug Solidity code.
 
-### Step 1: [Head over to Remix IDE](https://remix-project.org/)
+### Step 1: [Head over to Remix IDE](https://remix-project.org/){:target="\_blank"}
 
 ![Remix](https://ethereum.github.io/remix-website/assets/imgs/team/remix_logo.png)
 

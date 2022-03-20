@@ -6,7 +6,7 @@ description: A world class development environment, testing framework and asset 
 
 # The Truffle Suite gets developers from idea to dapp as comfortably as possible.
 
-### Step 1: [Head over to Truffle](https://trufflesuite.com/)
+### Step 1: [Head over to Truffle](https://trufflesuite.com/){:target="\_blank"}
 
 ![Truffle](https://trufflesuite.com/img/truffle-logo-light.svg)
 

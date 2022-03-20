@@ -6,7 +6,7 @@ description: How to build Ethereum Smart Contracts in SOlidity programming langu
 
 # Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM
 
-### Step 1: [Head over to Free Code Camp](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+### Step 1: [Head over to Free Code Camp](https://www.youtube.com/watch?v=ipwxYa-F1uY){:target="\_blank"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ipwxYa-F1uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -22,4 +22,4 @@ In this course you will learn how to write Ethereum smart contracts for the bloc
 
 Dapp University has some free courses and also paid courses.
 
-Recognition - [Dapp University](https://www.dappuniversity.com)
+Recognition - [Dapp University](https://www.dappuniversity.com){:target="\_blank"}
