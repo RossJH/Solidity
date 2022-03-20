@@ -1,15 +1,15 @@
 ---
 template: main.html
-title: Remix IDE - Deploy and run transactions on the Blockchain
-description: Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains
+title: Ethernaut Game
+description: A fun game to help you learn about security vulnerabilities in solidity code.
 ---
 
-# The Remix IDE allows you to write, compile and debug Solidity code.
+### Step 1: Head over to Open Zepplin [Website](https://ethernaut.openzeppelin.com/)
 
-### Step 1: [Head over to Remix IDE](https://remix-project.org/)
+### The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
-![Remix](https://ethereum.github.io/remix-website/assets/imgs/team/remix_logo.png)
+### The game is 100% open source and all levels are contributions made by other players. Do you have an interesting idea? PRs are welcome at
 
-# Introduction
+[GitHub](github.com/OpenZeppelin/ethernaut)
 
-The Remix IDE is a Solidity specific IDE to help you write smart contracts. It is an alternative to VScode.
+Recognition - [Openzepplin](https://openzeppelin.com/)
