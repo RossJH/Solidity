@@ -36,7 +36,7 @@ nav:
       - Ethernaut: solidity-code-games/ethernaut.md
       - Crypto Zombies: solidity-code-games/crypto-zombies.md
   - Top Bootcamps:
-      - _Buildspace: bootcamps/buildspace.md
+      - _Buildspace: solidity-code-games/ethernaut.md
       - Bloomtech: bootcamps/bloomtech.md
       - ChainShot: bootcamps/chainshot.md
       - Consensys Academy: bootcamps/consensys.md
