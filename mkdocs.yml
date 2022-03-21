@@ -67,7 +67,7 @@ theme:
     # - navigation.sections
     # - navigation.expand
     # - navigation.indexes
-    # - navigation.top
+    - navigation.top
     - search.suggest
     - search.share
     - header.autohide

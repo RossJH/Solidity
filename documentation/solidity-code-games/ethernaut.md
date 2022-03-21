@@ -10,6 +10,6 @@ description: A fun game to help you learn about security vulnerabilities in soli
 
 ### The game is 100% open source and all levels are contributions made by other players. Do you have an interesting idea? PRs are welcome at
 
-[GitHub](github.com/OpenZeppelin/ethernaut){:target="\_blank"}
+[GitHub](https://github.com/OpenZeppelin/ethernaut){:target="\_blank"}
 
 Recognition - [Openzepplin](https://openzeppelin.com/){:target="\_blank"}
